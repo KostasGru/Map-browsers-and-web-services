@@ -3,7 +3,7 @@ Pateikiami Žemėlapių naršyklių ir elektroninių paslaugų kurso praktinių 
 
 ## Pirmoji užduotis - Foninio žemėlapio vizualizacijų sukūrimas naudojant Vector tiles technologiją
 
-Užduoties metu sukurti 3 foniniai (baziniai) žemėlapių stiliai kuriamai žemėlapių naršyklei. Visi rezultatai pateikiami aplanke [work-1]
+Užduoties metu sukurti 3 foniniai (baziniai) žemėlapių stiliai kuriamai žemėlapių naršyklei. Visi rezultatai pateikiami aplanke [work-1](https://github.com/KostasGru/Map-browsers-and-web-services/tree/main/Work-1)
 
 - Topografinis žemėlapio stilius - darbui su detalia informacija.
 - Gamtinis (angl. outdoor) - darbui lauko sąlygomis
