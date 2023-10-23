@@ -1,7 +1,7 @@
 # Žemėlapių naršyklės ir elektroninės paslaugos
 Pateikiami Žemėlapių naršyklių ir elektroninių paslaugų kurso praktinių darbų rezultatai. 
 
-# Pirmoji užduotis - Foninio žemėlapio vizualizacijų sukūrimas naudojant Vector tiles technologiją
+## Pirmoji užduotis - Foninio žemėlapio vizualizacijų sukūrimas naudojant Vector tiles technologiją
 
 Užduoties metu sukurti 3 foniniai (baziniai) žemėlapių stiliai kuriamai žemėlapių naršyklei.
 
