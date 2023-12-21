@@ -16,3 +16,16 @@ Užduoties metu kompiuteryje sukonfigūruotas QGIS serveris, veikiantis Docker p
 - Bendrojo pagalbos centro skambučių žemėlapis - [bpc.qgs](https://github.com/KostasGru/Map-browsers-and-web-services/blob/main/Work-2/bpc.qgs).
 - Būstų žemėlapis - [bustai.qgs](https://github.com/KostasGru/Map-browsers-and-web-services/blob/main/Work-2/bustai.qgs).
 - 10 ilgiausių Lietuvos upių žemėlapis - [upes.qgs](https://github.com/KostasGru/Map-browsers-and-web-services/blob/main/Work-2/upes.qgs).
+
+## Trečioji užduotis - Sukurti žemėlapių naršylę naudojant JS, HTML ir CSS
+
+Suprogramuota bazinio funkcionalumo žemėlapių naršyklė, kurioje integruota: 2 darbe sukurtos teminės WMS el. paslaugas, 1 praktiniame darbe sukurti foniniai žemėlapiai. Žemėlapių naršyklė programuota naudojant HTML, CSS ir JS technologijas bei MapLibre žemėlapių naršyklių kūrimo biblioteką.
+
+Sukurtoje žemėlapių naršyklėje yra:
+
+- Bazinis žemėlapių sluoksnių valdymo (foninių ir teminių žemėlapių įjungimas/išjungimas) funkcionalumas;
+- žemėlapio valdymo funkcionalumas (standartiniai MapLibre bibliotekos įrankiai, tokie kaip zoom in/zoom out, paieška);
+- Pateikta žemėlapio aplikacijos aprašomoji informacija, tokia kaip: trumpi aprašymai, informacija apie autorių, metus ir kt.;
+- Integruoti 1 praktikos darbe sukurti foniniai žemėlapiai (3 foniniai žemėlapiai);
+- Integruotos 2 praktiniame darbe sukurtos teminės el. paslaugos (3 WMS el. paslaugos);
+- Integruoti įskiepiai, papildantys bazinį žemėlapio funkcionalumą, pvz. matavimus, vietovardžių paiešką ir pan.
